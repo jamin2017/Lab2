@@ -1,5 +1,5 @@
 
-package com.zjn.controller;
+package com.ljm.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -22,11 +22,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor;
 
+import com.ljm.entity.Book;
+import com.ljm.entity.BookList;
 import com.sun.corba.se.impl.protocol.giopmsgheaders.ReplyMessage_1_0;
 
 import com.sun.org.apache.regexp.internal.recompile;
-import com.zjn.entity.Book;
-import com.zjn.entity.BookList;
 
 import jdk.nashorn.internal.ir.Flags;
 

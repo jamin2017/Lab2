@@ -1,4 +1,4 @@
-package com.zjn.entity;
+package com.ljm.entity;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,11 +1,11 @@
-package com.zjn.entity;
+package com.ljm.entity;
 
 import java.io.Serializable;
 import javax.swing.border.TitledBorder;
 
 public class Book implements Serializable {
     /**
-     * @author zjn
+     * @author LJM
      */
 	private long ISBN;
     private String title;
